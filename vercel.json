@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "http://c6.play2go.cloud:20050/$1"
+    }
+  ]
+}
